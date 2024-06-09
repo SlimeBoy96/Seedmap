@@ -43,5 +43,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-- Developed by [Your Name](https://github.com/SlimeBoy96)
+- Developed by [Slime_Boy99](https://github.com/SlimeBoy96)
 
+-Team Ma9rouna:
+   Slime_Boy99
+   AW7
+   YW7
+   Kryzzouh
+   rachakkhalil
+   WiiW_Pro_0012
+   

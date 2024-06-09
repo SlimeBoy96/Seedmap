@@ -10,8 +10,20 @@
     <h1>Welcome to Seed Map</h1>
     <p>This is a simple example of a static site.</p>
     <div id="ad">
-        <!-- Google AdSense ad code will go here -->
+        <!-- Google AdSense ad code -->
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-XXXXXX"
+             data-ad-slot="XXXXXX"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
     </div>
+    <div id="map-container">
+        <!-- Map will be initialized here by JavaScript -->
+    </div>
+    <button>Initialize Map</button>
     <script src="script.js"></script>
 </body>
 </html>
